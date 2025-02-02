@@ -11,4 +11,3 @@ driver.get("url")
 
 
 
-wiki
